@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functions", "Functions\Functions.vcxproj", "{01A1B4D2-754F-43FA-B377-79C614CDE73D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Garena Room", "Garena Room\Garena Room.vcxproj", "{F8E7FB2B-EF87-4323-B3E6-84C51ECB57AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Libraries", "Libraries\Libraries.vcxproj", "{4F424114-8659-4743-B485-35929D7946C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A1B4D2-754F-43FA-B377-79C614CDE73D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01A1B4D2-754F-43FA-B377-79C614CDE73D}.Debug|Win32.Build.0 = Debug|Win32
+		{01A1B4D2-754F-43FA-B377-79C614CDE73D}.Release|Win32.ActiveCfg = Release|Win32
+		{01A1B4D2-754F-43FA-B377-79C614CDE73D}.Release|Win32.Build.0 = Release|Win32
+		{F8E7FB2B-EF87-4323-B3E6-84C51ECB57AF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8E7FB2B-EF87-4323-B3E6-84C51ECB57AF}.Debug|Win32.Build.0 = Debug|Win32
+		{F8E7FB2B-EF87-4323-B3E6-84C51ECB57AF}.Release|Win32.ActiveCfg = Release|Win32
+		{F8E7FB2B-EF87-4323-B3E6-84C51ECB57AF}.Release|Win32.Build.0 = Release|Win32
+		{4F424114-8659-4743-B485-35929D7946C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4F424114-8659-4743-B485-35929D7946C1}.Debug|Win32.Build.0 = Debug|Win32
+		{4F424114-8659-4743-B485-35929D7946C1}.Release|Win32.ActiveCfg = Release|Win32
+		{4F424114-8659-4743-B485-35929D7946C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
